@@ -1,9 +1,5 @@
 # Analyzing-Stock-Data
-Analyzing Historical Stock/Revenue Data and Building a Dashboard
 
-![aaa](https://user-images.githubusercontent.com/68159582/212479619-04c2f459-e3a0-4636-a7f5-5949064cdde3.png)
-![bbb](https://user-images.githubusercontent.com/68159582/212479629-8537469c-cb02-4416-bdd9-a0839e586f77.png)
+Uncover the critical information hidden within the dataset and present it in a way that empowers individuals to make informed decisions. In this notebook, we'll extract valuable stock data and visualize it through a captivating graph
 
-
-![ccc](https://user-images.githubusercontent.com/68159582/212479636-a5c074b9-592a-4367-81d2-fda9235f6585.png)
-![ddd](https://user-images.githubusercontent.com/68159582/212479627-d03d245f-b816-4b4c-81ea-f43b7adef7e6.png)
+This notebook leverages the power of yfinance to gather stock data and beautiful soup to scrape Tesla and Gamestop revenue information. With this data at our fingertips, we'll create an intriguing plot that showcases the insights we uncover.
